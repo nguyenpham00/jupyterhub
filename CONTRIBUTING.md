@@ -8,7 +8,8 @@ for a friendly and welcoming collaborative environment.
 
 Please see our documentation on
 
-- [Setting up a development install](https://jupyterhub.readthedocs.io/en/latest/contributing/setup.html)
+_[Setting up a development install](https://jupyterhub.readthedocs.io/en/latest/contributing/setup.html)
 - [Testing JupyterHub and linting code](https://jupyterhub.readthedocs.io/en/latest/contributing/tests.html)
 
-If you need some help, feel free to ask on [Gitter](https://gitter.im/jupyterhub/jupyterhub) or [Discourse](https://discourse.jupyter.org/).
+If you need some help, feel free to ask on [Gitter](https://gitter.im/jupyterhub/jupyterhub) or [Discourse](https://discourse.jupyter.org/)
+_(https://jupyterhub.readthedocs.io/en/stable/contributing/index.html)
