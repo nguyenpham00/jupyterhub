@@ -55,7 +55,7 @@ for administration of the Hub and its users.
 
 ### Check prerequisites
 
-- A Linux/Unix based system
+- A Linux/Unix/Mircosoft/MaxOS based system
 - [Python](https://www.python.org/downloads/) 3.6 or greater
 - [nodejs/npm](https://www.npmjs.com/)
 
